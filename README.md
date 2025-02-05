@@ -2,8 +2,7 @@
  
 ###
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&multiline=true&width=470&height=80&lines=Sorry+%2C+But+I+have+to+postpone+;All+the+Projects+to+next+year+because+;It's+My+Last+Time+in+School)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&multiline=true&width=470&height=80&lines=Sorry+%2C+But+I+have+to+postpone+;All+the+Projects+to+next+year+because+;It's+My+Last+Year+in+School)](https://git.io/typing-svg)
 ###
 
 <div align="center">
