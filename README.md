@@ -1,8 +1,5 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B!+I+am+Tanshen)](https://git.io/typing-svg) 
  
-###
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=100&multiline=true&width=500&height=80&lines=%F0%9F%92%8C+It's+My+Last+Year+At+School;%F0%9F%92%8C+I+won't+be+able+to+be+active+regularly;%F0%9F%92%8C+Sorry+%F0%9F%98%87)](https://git.io/typing-svg)
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tanxzen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
