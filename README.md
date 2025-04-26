@@ -1,7 +1,8 @@
 
 # 💫 About Me:
-Hi, I am Tanshen Hanglem, <br>
-I am a Student / last year in school. <br>
+
+### `Hi, I am Tanshen Hanglem,` <br>
+`I am a Student / last year in school.`
 
  
 
