@@ -1,13 +1,13 @@
-![MasterHaed](https://github.com/tanxzen/tanxzen/blob/main/nuelink-ai-image.jpg)
 
-<p align="center">
+
+<div align="center">
  
 # 💫 About Me:
 
-### `Hi, I am Tanshen Hanglem,` <br>
+## Hi, I am Tanshen Hanglem, <br>
 `I am a Student / last year in school.`
 
-</p>
+</div>
 
 
 ## 🌐 Socials:
