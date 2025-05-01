@@ -2,8 +2,8 @@
 
 <div align="center">
 
-## Hi, I am Tanshen Hanglem, <br>
-`I am a Student / last year in school.`
+# Hi, I am Tanshen Hanglem, <br>
+## `I am a Student / last year in school.`
 
 </div>
 
