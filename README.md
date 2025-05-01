@@ -1,8 +1,6 @@
-
+<img src="https://github.com/tanxzen/tanxzen/blob/main/low-level%20(1).gif" />
 
 <div align="center">
- 
-# 💫 About Me:
 
 ## Hi, I am Tanshen Hanglem, <br>
 `I am a Student / last year in school.`
