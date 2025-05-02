@@ -3,7 +3,7 @@
 <div align="center">
 
 # Hi, I am Tanshen Hanglem, <br>
-## `I am a Student / last year in school.`
+## `I am a Student / last year in high school.`
 
 </div>
 
