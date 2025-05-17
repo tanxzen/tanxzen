@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# Hi, I am Tanshen Hanglem, <br>
+# Hi, I am Tanshen <br>
 
 </div>
 
